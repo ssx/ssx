@@ -13,9 +13,9 @@
 
 ## Hi there 👋
 
-- :telescope: I currently work as a Technical Lead for [@DeployEcommerce](https://github.com/DeployEcommerce) where I build cool things with Magento/Adobe Commerce, PHP, Laravel and other languages/systems.
+- :telescope: I currently work as a Technical Lead for [@DeployEcommerce](https://github.com/DeployEcommerce) where I build cool things with Magento/Adobe Commerce, PHP, Laravel and other languages/systems. I'm an Adobe Certified Professional both in [Adobe Commerce Developer](https://certification.adobe.com/credential/verify/86ceecff-af97-42cb-a196-1142bc36e4ef) and [Adobe Commerce Business Practitioner](https://certification.adobe.com/credential/verify/117faf1c-e94e-4733-8e5f-896d3e4a3b25).
 
-- :seedling: I've always loved nature and animals. I'm now becoming more interested in social work, sustainability and the environment.
+- :seedling: I've always loved nature, the outdoors and animals. I'm very interested in sustainability, social work and the environment along with being active in the outdoors.
 
 - :zap: I've written quite a few projects and a bunch of [PHP packages](https://packagist.org/users/ssx/) such as [ssx/skrub](https://packagist.org/packages/ssx/skrub), [deployecommerce/module-trojan-order-prevent](https://packagist.org/packages/deployecommerce/module-trojan-order-prevent) and  [ssx/module-remove-elastic-suite-notification](https://packagist.org/packages/ssx/module-remove-elastic-suite-notification).
 
@@ -53,4 +53,3 @@
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssx&hide=css)](https://github.com/anuraghazra/github-readme-stats)
-
