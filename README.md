@@ -48,8 +48,8 @@
 
 <br>
 
-### Current Stat
+### Current Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssx)](https://git.io/streak-stats)
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssx&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ssx&langs_count=5&hide=css)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4)
