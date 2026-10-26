@@ -1,11 +1,4 @@
-<div id="header" align="center">
-    <img src="https://dor.ky/assets/images/logos/ssx_tra.png" width="100"/>
-</div>
-<br><br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/scott-robinson-048168163/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" border="0" style="border: 0px !important"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=ssx" border="0" style="border: 0px !important"/>  
 </div>
 
@@ -18,9 +11,6 @@
 - :seedling: I've always loved nature, the outdoors and animals. I'm very interested in sustainability, social work and the environment along with being active in the outdoors.
 
 - :zap: I've written quite a few projects and a bunch of [PHP packages](https://packagist.org/users/ssx/) such as [ssx/skrub](https://packagist.org/packages/ssx/skrub), [deployecommerce/module-trojan-order-prevent](https://packagist.org/packages/deployecommerce/module-trojan-order-prevent) and  [ssx/module-remove-elastic-suite-notification](https://packagist.org/packages/ssx/module-remove-elastic-suite-notification).
-
-- :mailbox:  How to reach me: scott@dor.ky 
-
 
 <br>
 
@@ -43,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" height="40"/>&nbsp; 
-            
 </div>
 
 <br>
